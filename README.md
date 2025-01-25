@@ -1,6 +1,6 @@
 # :mortar_board: L.EIC
 
-This is a short index of all my work, projects and results I achieved on the [Bachelor in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=22841&pv_ano_lectivo=2024) at the [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/en/web_page.Inicial). :bowtie:
+This is a short index of all my work, projects and results I achieved on the [Bachelor in Informatics and Computing Engineering (L.EIC)](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=22841&pv_ano_lectivo=2024) at the [Faculty of Engineering of the University of Porto (FEUP)](https://sigarra.up.pt/feup/en/web_page.Inicial). :bowtie:
 
 Heavily inspired by a similar repository by [limwa](https://github.com/limwa/feup?tab=readme-ov-file) (which is heavily inspired by a repository by [bdmendes](https://github.com/bdmendes/feup)), a big thanks to both for the idea! :raised_hands:
 
