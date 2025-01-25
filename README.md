@@ -83,9 +83,7 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td>L.EIC009</td>
             <td>Programming</td>
             <td>20</td>
-            <td><ul>
-                <li><a href="https://github.com/Process-ing/feup-prog">Terminal Photoshop</a></li>
-            </ul></td>
+            <td><a href="https://github.com/Process-ing/feup-prog">Terminal Photoshop</a></td>
         </tr>
         <tr>
             <td>L.EIC010</td>
@@ -94,23 +92,21 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td></td>
         </tr>
         <tr>
-            <th rowspan="12">2nd Year</th>
-            <th rowspan="6">1st Semester</th>
-            <td>L.EIC011</td>
-            <td>Algorithms and Data Structures</td>
-            <td>20</td>
-            <td><ul>
-                <li><a href="https://github.com/Process-ing/feup-aed1">SchAEDuler</a></li>
-                <li><a href="https://github.com/Process-ing/feup-aed2">NaviGraph</a></li>
-            </ul></td>
+            <th rowspan="14">2nd Year</th>
+            <th rowspan="7">1st Semester</th>
+            <td rowspan="2">L.EIC011</td>
+            <td rowspan="2">Algorithms and Data Structures</td>
+            <td rowspan="2">20</td>
+            <td><a href="https://github.com/Process-ing/feup-aed1">SchAEDuler</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Process-ing/feup-aed2">NaviGraph</a></td>
         </tr>
         <tr>
             <td>L.EIC012</td>
             <td>Databases</td>
             <td>19</td>
-            <td><ul>
-                <li><a href="https://github.com/Process-ing/feup-bd">Streaming Service DB</a></li>
-            </ul></td>
+            <td><a href="https://github.com/Process-ing/feup-bd">Streaming Service DB</a></td>
         </tr>
         <tr>
             <td>L.EIC013</td>
@@ -122,9 +118,7 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td>L.EIC014</td>
             <td>Software Design and Testing Laboratory</td>
             <td>19</td>
-            <td><ul>
-                <li><a href="https://github.com/Process-ing/feup-ldts">Timeless Odyssey</a></li>
-            </ul></td>
+            <td><a href="https://github.com/Process-ing/feup-ldts">Timeless Odyssey</a></td>
         </tr>
         <tr>
             <td>L.EIC015</td>
@@ -139,22 +133,20 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td></td>
         </tr>
         <tr>
-            <th rowspan="6">2nd Semester</th>
-            <td>L.EIC016</td>
-            <td>Algorithm Design</td>
-            <td>19</td>
-            <td><ul>
-                <li><a href="https://github.com/Process-ing/feup-da1">Water Management System</a></li>
-                <li><a href="https://github.com/Process-ing/feup-da2">Travelling Salesman Problem</a></li>
-            </ul></td>
+            <th rowspan="7">2nd Semester</th>
+            <td rowspan="2">L.EIC016</td>
+            <td rowspan="2">Algorithm Design</td>
+            <td rowspan="2">19</td>
+            <td><a href="https://github.com/Process-ing/feup-da1">Water Management System</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Process-ing/feup-da2">Travelling Salesman Problem</a></td>
         </tr>
         <tr>
             <td>L.EIC017</td>
             <td>Software Engineering</td>
             <td>19</td>
-            <td><ul>
-                <li><a href="https://github.com/Process-ing/feup-esof">ECOnnect</a></li>
-            </ul></td>
+            <td><a href="https://github.com/Process-ing/feup-esof">ECOnnect</a></td>
         </tr>
         <tr>
             <td>L.EIC018</td>
@@ -166,9 +158,7 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td>L.EIC019</td>
             <td>Web Languages and Technologies</td>
             <td>19</td>
-            <td><ul>
-                <li><a href="https://github.com/Process-ing/feup-ltw">Trinted</a></li>
-            </ul></td>
+            <td><a href="https://github.com/Process-ing/feup-ltw">Trinted</a></td>
         </tr>
         <tr>
             <td>L.EIC020</td>
@@ -183,30 +173,24 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td></td>
         </tr>
         <tr>
-            <th rowspan="11">3rd Year</th>
-            <th rowspan="6">1st Semester</th>
+            <th rowspan="12">3rd Year</th>
+            <th rowspan="7">1st Semester</th>
             <td>L.EIC021</td>
             <td>Computer Security Foundations</td>
             <td>20</td>
-            <td><ul>
-                <li><a href="https://github.com/Process-ing/feup-fsi">Write-Ups</a></li>
-            </ul></td>
+            <td><a href="https://github.com/Process-ing/feup-fsi">Write-Ups</a></td>
         </tr>
         <tr>
             <td>L.EIC022</td>
             <td>Human Computer Interaction</td>
             <td>N/A</td>
-            <td><ul>
-                <li><a href="https://github.com/Process-ing/feup-ipc">Watt Are You Doing?</a></li>
-            </ul></td>
+            <td><a href="https://github.com/Process-ing/feup-ipc">Watt Are You Doing?</a></td>
         </tr>
         <tr>
             <td>L.EIC023</td>
             <td>Database and Web Applications Laboratory</td>
             <td>N/A</td>
-            <td><ul>
-                <li><a href="https://github.com/Process-ing/feup-lbaw">ProGram</a></li>
-            </ul></td>
+            <td><a href="https://github.com/Process-ing/feup-lbaw">ProGram</a></td>
         </tr>
         <tr>
             <td>L.EIC024</td>
@@ -215,13 +199,13 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td></td>
         </tr>
         <tr>
-            <td>L.EIC025</td>
-            <td>Computer Networks</td>
-            <td>20</td>
-            <td><ul>
-                <li><a href="https://github.com/Process-ing/feup-rcom1">Data Link Layer</a></li>
-                <li><a href="https://github.com/Process-ing/feup-rcom2">Computer Networks</a></li>
-            </ul></td>
+            <td rowspan="2">L.EIC025</td>
+            <td rowspan="2">Computer Networks</td>
+            <td rowspan="2">20</td>
+            <td><a href="https://github.com/Process-ing/feup-rcom1">Data Link Layer</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Process-ing/feup-rcom2">Computer Networks</a></td>
         </tr>
         <tr>
             <td>IADP01</td>
