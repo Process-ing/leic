@@ -23,8 +23,8 @@ With that out of the way, here's the aforementioned index. I have the tradition 
     </thead>
     <tbody>
         <tr>
-            <td rowspan="11" style="text-align: center;"><strong>1st Year</strong></td>
-            <td rowspan="6" style="text-align: center;"><strong>1st Semester</strong></td>
+            <th rowspan="11">1st Year</th>
+            <th rowspan="6">1st Semester</th>
             <td>L.EIC001</td>
             <td>Linear Algebra and Analytical Geometry</td>
             <td>20</td>
@@ -61,7 +61,7 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td></td>
         </tr>
         <tr>
-            <td rowspan="5" style="text-align: center;"><strong>2nd Semester</strong></td>
+            <th rowspan="5">2nd Semester</th>
             <td>L.EIC006</td>
             <td>Computer Architecture</td>
             <td>19</td>
@@ -94,8 +94,8 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td></td>
         </tr>
         <tr>
-            <td rowspan="12" style="text-align: center;"><strong>2nd Year</strong></td>
-            <td rowspan="6" style="text-align: center;"><strong>1st Semester</strong></td>
+            <th rowspan="12">2nd Year</th>
+            <th rowspan="6">1st Semester</th>
             <td>L.EIC011</td>
             <td>Algorithms and Data Structures</td>
             <td>20</td>
@@ -139,7 +139,7 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td></td>
         </tr>
         <tr>
-            <td rowspan="6" style="text-align: center;"><strong>2nd Semester</strong></td>
+            <th rowspan="6">2nd Semester</th>
             <td>L.EIC016</td>
             <td>Algorithm Design</td>
             <td>19</td>
@@ -183,8 +183,8 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td></td>
         </tr>
         <tr>
-            <td rowspan="11" style="text-align: center;"><strong>3rd Year</strong></td>
-            <td rowspan="6" style="text-align: center;"><strong>1st Semester</strong></td>
+            <th rowspan="11">3rd Year</th>
+            <th rowspan="6">1st Semester</th>
             <td>L.EIC021</td>
             <td>Computer Security Foundations</td>
             <td>20</td>
@@ -230,7 +230,7 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td></td>
         </tr>
         <tr>
-            <td rowspan="5" style="text-align: center;"><strong>2nd Semester</strong></td>
+            <th rowspan="5">2nd Semester</th>
             <td>L.EIC026</td>
             <td>Compilers</td>
             <td>N/A</td>
@@ -263,7 +263,7 @@ With that out of the way, here's the aforementioned index. I have the tradition 
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="4" style="text-align: right;"><strong>Current Average</strong></td>
+            <th colspan="4">Current Average</th>
             <td colspan="2">19.62</td>
         </tr>
     </tfoot>
