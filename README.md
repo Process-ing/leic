@@ -13,12 +13,12 @@ With that out of the way, here's the aforementioned index. I have the tradition 
 <table>
     <thead>
         <tr>
-            <th style="text-align: center;">Year</th>
-            <th style="text-align: center;">Semester</th>
-            <th style="text-align: center;">UC Code</th>
-            <th style="text-align: center;">UC Name</th>
-            <th style="text-align: center;">Grade</th>
-            <th style="text-align: center;">Project(s)</th>
+            <th>Year</th>
+            <th>Semester</th>
+            <th>UC Code</th>
+            <th>UC Name</th>
+            <th>Grade</th>
+            <th>Project(s)</th>
         </tr>
     </thead>
     <tbody>
@@ -263,7 +263,7 @@ With that out of the way, here's the aforementioned index. I have the tradition 
     </tbody>
     <tfoot>
         <tr>
-            <th colspan="4" style="text-align: end;">Current Average</th>
+            <th colspan="4">Current Average</th>
             <td colspan="2">19.62</td>
         </tr>
     </tfoot>
