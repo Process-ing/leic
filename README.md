@@ -263,7 +263,7 @@ With that out of the way, here's the aforementioned index. I have the tradition 
     </tbody>
     <tfoot>
         <tr>
-            <th colspan="4">Current Average</th>
+            <th colspan="4" style="text-align: end;">Current Average</th>
             <td colspan="2">19.62</td>
         </tr>
     </tfoot>
