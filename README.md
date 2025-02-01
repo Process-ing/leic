@@ -140,7 +140,7 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td><a href="https://github.com/Process-ing/feup-da1">Water Management System</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Process-ing/feup-da2">Travelling Salesman Problem</a></td>
+            <td><a href="https://github.com/Process-ing/feup-da2">Traveling Salesman Problem</a></td>
         </tr>
         <tr>
             <td>L.EIC017</td>
@@ -173,8 +173,8 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td></td>
         </tr>
         <tr>
-            <th rowspan="12">3rd Year</th>
-            <th rowspan="7">1st Semester</th>
+            <th rowspan="13">3rd Year</th>
+            <th rowspan="8">1st Semester</th>
             <td>L.EIC021</td>
             <td>Computer Security Foundations</td>
             <td>20</td>
@@ -183,20 +183,23 @@ With that out of the way, here's the aforementioned index. I have the tradition 
         <tr>
             <td>L.EIC022</td>
             <td>Human Computer Interaction</td>
-            <td>N/A</td>
+            <td>19</td>
             <td><a href="https://github.com/Process-ing/feup-ipc">Watt Are You Doing?</a></td>
         </tr>
         <tr>
             <td>L.EIC023</td>
             <td>Database and Web Applications Laboratory</td>
-            <td>N/A</td>
+            <td>19</td>
             <td><a href="https://github.com/Process-ing/feup-lbaw">ProGram</a></td>
         </tr>
         <tr>
-            <td>L.EIC024</td>
-            <td>Functional and Logic Programming</td>
-            <td>N/A</td>
-            <td></td>
+            <td rowspan="2">L.EIC024</td>
+            <td rowspan="2">Functional and Logic Programming</td>
+            <td rowspan="2">20</td>
+            <td><a href="https://github.com/Process-ing/feup-pfl1">Traveling Salesman Problem (in Haskell)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Process-ing/feup-pfl2">Replica</a></td>
         </tr>
         <tr>
             <td rowspan="2">L.EIC025</td>
@@ -248,7 +251,7 @@ With that out of the way, here's the aforementioned index. I have the tradition 
     <tfoot>
         <tr>
             <th colspan="4">Current Average</th>
-            <td colspan="2">19.62</td>
+            <td colspan="2">19.59</td>
         </tr>
     </tfoot>
 </table>
