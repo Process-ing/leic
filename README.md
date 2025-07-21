@@ -5,7 +5,7 @@ This is a short index of all my work, projects and results I achieved on the [Ba
 Heavily inspired by a similar repository by [limwa](https://github.com/limwa/feup?tab=readme-ov-file) (which is heavily inspired by a repository by [bdmendes](https://github.com/bdmendes/feup)), a big thanks to both for the idea! :raised_hands:
 
 :warning: Just a few things to note:
-- This is not a complete list of everything I've done, as I have included only the work that I deem the most relevant and that I'm allowed to share. Also, my course is still ongoing, so this list will be updated as I complete more curricular units.
+- This is not a complete list of everything I've done, as I have included only the work that I deem the most relevant and that I'm allowed to share.
 - This is only meant to be a registry of my achievements at the faculty, and I'm not responsible for any misuse of the information provided here. Always be mindful of how you use other people's work and remember that any kind of plagiarism can have serious consequences, such as making you fail the course.
 
 With that out of the way, here's the aforementioned index. I have the tradition of placing some tips I find useful in the README of each project. If you find my projects useful, don't forget to leave a star! :star:
@@ -173,7 +173,7 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td></td>
         </tr>
         <tr>
-            <th rowspan="13">3rd Year</th>
+            <th rowspan="16">3rd Year</th>
             <th rowspan="8">1st Semester</th>
             <td>L.EIC021</td>
             <td>Computer Security Foundations</td>
@@ -217,41 +217,50 @@ With that out of the way, here's the aforementioned index. I have the tradition 
             <td></td>
         </tr>
         <tr>
-            <th rowspan="5">2nd Semester</th>
+            <th rowspan="8">2nd Semester</th>
             <td>L.EIC026</td>
             <td>Compilers</td>
-            <td>N/A</td>
-            <td></td>
+            <td>20</td>
+            <td><a href="https://jmm.processing.pt">Java-- Compiler</a> (website based on <a href="https://github.com/limwa/jmm.limwa.pt">this repo</a> by <a href="https://github.com/limwa">limwa</a>)</td>
         </tr>
         <tr>
             <td>L.EIC027</td>
             <td>Computer Graphics</td>
-            <td>N/A</td>
-            <td></td>
+            <td>19</td>
+            <td><a href="https://github.com/Process-ing/feup-cgra">Firefighter Simulation</a></td>
         </tr>
         <tr>
-            <td>L.EIC028</td>
-            <td>Parallel and Distributed Computing</td>
-            <td>N/A</td>
-            <td></td>
+            <td rowspan="2">L.EIC028</td>
+            <td rowspan="2">Parallel and Distributed Computing</td>
+            <td rowspan="2">19</td>
+            <td><a href="https://github.com/Process-ing/feup-cpd">Matrix Multiplication</td>
         </tr>
         <tr>
-            <td>L.EIC029</td>
-            <td>Artificial Intelligence</td>
-            <td>N/A</td>
-            <td></td>
+            <td><a href="https://github.com/Process-ing/feup-cpd">Chat Server</a></td>
         </tr>
         <tr>
-            <td>L.EIC030</td>
-            <td>Capstone Project</td>
-            <td>N/A</td>
-            <td></td>
+            <td rowspan="2">L.EIC029</td>
+            <td rowspan="2">Artificial Intelligence</td>
+            <td rowspan="2">20</td>
+            <td><a href="https://github.com/Process-ing/feup-iart1">Router Placement</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Process-ing/feup-iart2">Backpack Prediction</a></td>
+        </tr>
+        <tr>
+            <td rowspan="2">L.EIC030</td>
+            <td rowspan="2">Capstone Project</td>
+            <td rowspan="2">18</td>
+            <td><a href="https://github.com/specs-feup/lara-visualization">LARA Visualization Tool</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/specs-feup/clava-visualization">Clava Visualization Tool</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
-            <th colspan="4">Current Average</th>
-            <td colspan="2">19.59</td>
+            <th colspan="4">Final Average</th>
+            <td colspan="2">19.53</td>
         </tr>
     </tfoot>
 </table>
